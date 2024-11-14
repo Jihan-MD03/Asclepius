@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define primary and secondary colors -->
+    <color name="colorPrimary">#0E6B90</color> <!-- Ubah ke warna yang diinginkan -->
+    <color name="colorPrimaryDark">#73290B</color> <!-- Ubah ke warna yang diinginkan -->
+    <color name="colorAccent">#625B0B</color> <!-- Ubah ke warna yang diinginkan -->
+
+    <!-- Tambahkan warna tambahan -->
+    <color name="backgroundColor">#FBFAFA</color> <!-- Ubah warna latar belakang -->
+    <color name="textColor">#000000</color> <!-- Ubah warna teks -->
+</resources>

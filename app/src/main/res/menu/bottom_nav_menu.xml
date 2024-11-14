@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/navigation_camera"
+        android:icon="@drawable/baseline_photo_camera_24"
+        android:title="Kamera" />
+    <item
+        android:id="@+id/navigation_notes"
+        android:icon="@drawable/baseline_sticky_note_2_24"
+        android:title="Catatan" />
+</menu>
